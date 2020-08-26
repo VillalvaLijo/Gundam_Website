@@ -1,3 +1,5 @@
+This a project I created to work on React Hooks, Material UI and server hosting with AWS.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
